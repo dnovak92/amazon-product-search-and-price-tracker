@@ -19,4 +19,4 @@ Usage:
 1.On the homepage, enter a keyword to search for products on Amazon and the number of pages to scrape.
 2.Click on the "Search" button to view the results in a tabular format.
 3.Use the "Filter" form to filter the results by price range and product name.
-4.Click on the "Search" button to view the filtered results.
+4.Click on the "Search" button to view the filtered results. 
